@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "queue": "cpp"
+        "queue": "cpp",
+        "vector": "cpp",
+        "stack": "cpp",
+        "deque": "cpp"
     }
 }
